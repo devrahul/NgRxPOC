@@ -1,2 +1,2 @@
 # NgRxPOC
-Hand On Understanding on NgRx Library
+Hand On Exp on NgRx Library
